@@ -23,7 +23,7 @@ STT → 사투리 분석 → 표준어 변환 → TTS까지 제공하는
 
 - Python
 - PyTorch
-- Hugging Face Transformers
+- Hugging Face Transformers / HuBert https://huggingface.co/team-lucid/hubert-base-korean
 - Qwen
 - Streamlit
 - Git / GitHub
