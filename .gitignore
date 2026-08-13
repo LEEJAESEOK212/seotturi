@@ -3,3 +3,24 @@
 __pycache__/
 *.pyc
 .DS_Store
+# AI Hub dataset
+data/
+*.zip
+dialect_train.jsonl
+dialect_val.jsonl
+dialect_train_10k.jsonl
+dialect_val_1k.jsonl
+
+# Trained LoRA
+gemma3-dialect-lora/
+
+# Cache
+.cache/
+hf-cache/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
