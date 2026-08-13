@@ -49,5 +49,5 @@ STT → 사투리 분석 → 표준어 변환 → TTS까지 제공하는
 - 서비스 배포
 
 ## 필요 사이트
--지역 별 사투리 분류 : https://www.kaggle.com/competitions/hai2023summer/data
--사투리 데이터셋 : https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71517
+- 지역 별 사투리 분류 : https://www.kaggle.com/competitions/hai2023summer/data
+- 사투리 데이터셋 : https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=71517
