@@ -19,6 +19,8 @@ STT → 사투리 분석 → 표준어 변환 → TTS까지 제공하는
 - 표준어 변환
 - 변경 표현 및 설명 생성
 
+- 현재 멍청한 qwen을 살리기위해 gemma를 쓰는 중. gemma로 qwen을 distillation 해봤지만, 직접 사용이 더 좋긴 했음.
+
 ## 기술 스택
 
 - Python
