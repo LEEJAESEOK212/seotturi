@@ -1,0 +1,12 @@
+.venv/
+.cache/
+models/
+data/
+adapters/
+outputs/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
