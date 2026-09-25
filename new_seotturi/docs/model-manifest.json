@@ -1,6 +1,0 @@
-{
-  "repo_id": "mlx-community/gemma-3-text-4b-it-4bit",
-  "revision": "4f665a4c50ecfe4ecdc34056ab52fe3e3c4abf9e",
-  "local_dir": "models/gemma-3-text-4b-it-4bit",
-  "download_transport": "http (HF_HUB_DISABLE_XET=1)"
-}
